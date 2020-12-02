@@ -1,0 +1,25 @@
+1#Guardians Of The Galaxy#Disney#332.9#PG-13
+2#The Hunger Games: Mockingjay Part 1#Lionsgate#313.3#PG-13
+3#Captain America: The Winter Soldier#Disney#259.8#PG-13
+4#The Lego Movie#Warner Bros.#257.8#PG
+5#Transformers: Age Of Extinction#Paramount#245.4#PG-13
+6#Maleficent#Disney#241.4#PG
+7#X-Men: Days Of Future Past#20th Century Fox#233.9#PG-13
+8#Dawn Of The Planet Of The Apes#20th Century Fox#208.5#PG-13
+9#Big Hero 6#Disney#204.6#PG
+10#The Amazing Spider-Man 2#Sony#202.9#PG-13
+11#Godzilla#Warner Bros.#200.7#PG-13
+12#22 Jump Street#Sony#191.7#R
+13#Teenage Mutant Ninja Turtles#Paramount#191.2#PG-13
+14#The Hobbit: The Battle Of The Five Armies#Warner Bros.#189.5#PG-13
+15#Interstellar#Paramount#179.4#PG-13
+16#How To Train Your Dragon 2#20th Century Fox#177.0#PG
+17#Gone Girl#20th Century Fox#166.2#R
+18#Divergent#Lionsgate#150.9#PG-13
+19#Neighbors#Universal#150.2#R
+20#Frozen#Disney#137.6#PG
+21#Ride Along#Universal#134.9#PG-13
+22#Rio 2#20th Century Fox#131.5#G
+23#Lucy#Universal#126.7#R
+24#Lone Survivor#Universal#124.9#R
+25#The Fault In Our Stars#20th Century Fox#124.9#PG-13
